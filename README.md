@@ -177,6 +177,10 @@ We welcome contributions to the Pharmacy Location Finder project! Please follow 
 
 ## 📝 License Information
 
-This project is currently released without a specific license. This means all rights are reserved by the copyright holder, **Salma191**. You may not use, copy, distribute, or modify this software without explicit permission from the copyright holder.
+## 📝 License Information
 
-© 2023 Salma191. All rights reserved.
+This project is currently released without a specific license.  
+All rights are reserved by the copyright holders. You may not use, copy, distribute, or modify this software without explicit permission from the authors.
+
+© 2023 - Present **Salma191, ZinebTaghia, Safiyadaoudi01**. All rights reserved.
+
