@@ -1,10 +1,31 @@
 # 📍 Pharmacy Location Finder
 
-Easily locate nearby pharmacies with real-time availability and services.
+> Easily locate nearby pharmacies with real-time availability and services.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-None-lightgrey) ![Stars](https://img.shields.io/github/stars/pharmacy-location/pharmacy-location?style=social) ![Forks](https://img.shields.io/github/forks/pharmacy-location/pharmacy-location?style=social)
 
-![Project Preview](/preview_example.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18.2.0-20232A?logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React%20Native-0.72.0-20232A?logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Node.js-18.16.0-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-4.18.2-000000?logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-6.0-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+## 📑 Table of Contents
+- [✨ Features](#-features)  
+- [🛠️ Installation Guide](#️-installation-guide)  
+  - [Prerequisites](#prerequisites)  
+  - [1. Clone the Repository](#1-clone-the-repository)  
+  - [2. Backend Setup (`Backend-Pharmacy`)](#2-backend-setup-backend-pharmacy)  
+  - [3. Web Application Setup (`Web-Pharmacy`)](#3-web-application-setup-web-pharmacy)  
+  - [4. Mobile Application Setup (`Mobile-Pharmacy`)](#4-mobile-application-setup-mobile-pharmacy)  
+- [🚀 Demo](#-demo)  
+- [🛣️ Project Roadmap](#️-project-roadmap)  
+- [🤝 Contribution Guidelines](#-contribution-guidelines)  
+  - [Pull Request Process](#pull-request-process)  
+  - [Testing Requirements](#testing-requirements)  
+- [📝 License Information](#-license-information)  
 
 
 ## ✨ Features
@@ -108,21 +129,12 @@ npm run ios # or yarn ios
 Ensure you have an emulator running or a physical device connected.
 
 
-## 🚀 Usage Examples
+## 🚀 Demo
 
-Once all components are set up and running, you can interact with the Pharmacy Location Finder.
 
-### Finding a Pharmacy (Web/Mobile)
 
-1.  **Open the Web Application** in your browser or **launch the Mobile App** on your device.
-2.  **Allow Location Access** when prompted.
-3.  The map will display nearby pharmacies.
-4.  Use the **search bar or filter options** to refine your search (e.g., "24-hour pharmacies," "pharmacies with specific services").
-5.  Click on a pharmacy marker to view its details, including address, contact information, and services.
+https://github.com/user-attachments/assets/cf655ec6-d1b8-4416-a230-eeb4b4ded441
 
-**Example Screenshot:**
-![Usage Screenshot Placeholder](/usage_example.png)
-_A placeholder for a screenshot showing the application in use, displaying pharmacies on a map._
 
 
 ## 🛣️ Project Roadmap
