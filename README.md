@@ -1,8 +1,11 @@
+<p align="center">
+<img width="222" height="199" alt="logoPharm" src="https://github.com/user-attachments/assets/51e4c130-dec2-4d90-9489-8f5b9e7b4aab" />
+</p>
+
 # 📍 Pharmacy Location Finder
 
 > Easily locate nearby pharmacies with real-time availability and services.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-None-lightgrey) ![Stars](https://img.shields.io/github/stars/pharmacy-location/pharmacy-location?style=social) ![Forks](https://img.shields.io/github/forks/pharmacy-location/pharmacy-location?style=social)
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-18.2.0-20232A?logo=react&logoColor=61DAFB" alt="React"/>
@@ -13,6 +16,7 @@
 </p>
 
 ## 📑 Table of Contents
+
 - [✨ Features](#-features)  
 - [🛠️ Installation Guide](#️-installation-guide)  
   - [Prerequisites](#prerequisites)  
