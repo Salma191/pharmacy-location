@@ -181,8 +181,6 @@ We welcome contributions to the Pharmacy Location Finder project! Please follow 
 
 ## 📝 License Information
 
-## 📝 License Information
-
 This project is currently released without a specific license.  
 All rights are reserved by the copyright holders. You may not use, copy, distribute, or modify this software without explicit permission from the authors.
 
